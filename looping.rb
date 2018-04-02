@@ -1,7 +1,5 @@
-looping = "Wingardium Leviosa"
-
-loop do
-  puts "Wingardium Leviosa"
+def looping
+  loop do
+    puts "Wingardium Leviosa"
+  end
 end
-
-looping
