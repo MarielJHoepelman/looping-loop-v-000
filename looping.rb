@@ -1,5 +1,5 @@
 looping do
-  puts ""Wingardium Leviosa""
+  puts "Wingardium Leviosa"
 end
 
 looping
