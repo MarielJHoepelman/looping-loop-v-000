@@ -1,5 +1,5 @@
-loop do
-  puts "I have found the Time Machine!"
+looping do
+  puts ""Wingardium Leviosa""
 end
 
-loop
+looping
